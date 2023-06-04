@@ -15,9 +15,7 @@
 ---
 
 ### :man_technologist: About Me :
-  I am trying to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- :telescope: I’m working as web developer intern at Smartknower. 
+  I am trying to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. 
 
 - :seedling: Exploring Front End Frameworks like React. 
 
