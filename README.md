@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aayush Juyal</h1>
 <h3 align="center">An aspiring software engineer learning to consistently improve</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aj12-houdini&label=Profile%20views&color=0e75b6&style=flat" alt="aj12-houdini" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aj12-houdini" alt="aj12-houdini" /></a> </p>
+
 - 🔭 I’m currently working on [A social media MERN stack application](https://github.com/aj12-houdini/WeMeet.git)
 
 - 🌱 I’m currently learning **Spring Boot with Microservices**
